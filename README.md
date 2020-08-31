@@ -38,6 +38,7 @@ Loosely categorized into:
 
 - [x] Bourne Again Shell (bash)
 - [x] JavaScript
+- [x] Perl
 - [x] PHP
 - [x] PowerShell
 - [x] Python
@@ -62,7 +63,6 @@ Loosely categorized into:
 - [ ] Haskell
 - [ ] Kotlin
 - [ ] MATLAB
-- [ ] Perl
 - [ ] Scala
 - [ ] Scratch
 - [ ] Shell

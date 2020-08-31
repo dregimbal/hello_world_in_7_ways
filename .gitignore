@@ -3,6 +3,7 @@
 
 # Compiled Project Files
 **/dist/
+*.exe
 
 # C# Project Files
 **/obj/*.csproj.nuget.dgspec.json

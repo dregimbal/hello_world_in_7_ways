@@ -13,3 +13,5 @@
 
 # Temp Files
 *.cache
+
+*.pdb

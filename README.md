@@ -39,6 +39,7 @@ Loosely categorized into:
 - [x] Bourne Again Shell (bash)
 - [x] JavaScript
 - [x] Python
+- [x] Ruby
 
 #### Text Documents
 
@@ -62,7 +63,6 @@ Loosely categorized into:
 - [ ] Perl
 - [ ] PHP
 - [ ] PowerShell
-- [ ] Ruby
 - [ ] Scala
 - [ ] Scratch
 - [ ] Shell

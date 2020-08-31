@@ -23,11 +23,13 @@ Loosely categorized into:
 
 #### Compiled
 
+- [x] ArnoldC
 - [x] C#
 - [x] Go
 - [x] Java
 - [x] Rust
 - [x] TypeScript
+
 
 #### Miscellaneous/Memes
 

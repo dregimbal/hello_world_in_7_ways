@@ -16,3 +16,56 @@ Loosely categorized into:
 - Scripted/interpreted languages (JS, bash)
 - Compiled langues (typescript, java, c#)
 - Miscellaneous/memes (images, folder structure)
+
+## Languages
+
+### Completed
+
+#### Compiled
+
+- [x] C#
+- [x] Go
+- [x] Java
+- [x] Rust
+- [x] TypeScript
+
+#### Miscellaneous/Memes
+
+- [x] Filename
+- [x] Folder Names
+
+#### Scripted/Interpreted
+
+- [x] Bourne Again Shell (bash)
+- [x] JavaScript
+- [x] Python
+
+#### Text Documents
+
+- [x] .txt
+- [x] HTML
+- [x] Markdown
+
+### Upcoming
+
+- [ ] Assembly
+- [ ] C
+- [ ] C++
+- [ ] Clojure
+- [ ] COBOL
+- [ ] Crystal
+- [ ] Erlang
+- [ ] Fish Shell
+- [ ] Haskell
+- [ ] Kotlin
+- [ ] MATLAB
+- [ ] Perl
+- [ ] PHP
+- [ ] PowerShell
+- [ ] Ruby
+- [ ] Scala
+- [ ] Scratch
+- [ ] Shell
+- [ ] Swift
+- [ ] Visual Basic
+- [ ] Z Shell (zsh)

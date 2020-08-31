@@ -30,7 +30,6 @@ Loosely categorized into:
 - [x] Rust
 - [x] TypeScript
 
-
 #### Miscellaneous/Memes
 
 - [x] Filename

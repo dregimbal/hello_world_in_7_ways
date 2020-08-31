@@ -1,3 +1,14 @@
+# Misc. System Files
 **/.DS_Store
+
+# Compiled Project Files
 **/dist/
+
+# C# Project Files
+**/obj/*.csproj.nuget.dgspec.json
+**/obj/project.assets.json
+**/obj/Debug/
 **/bin/
+
+# Temp Files
+*.cache

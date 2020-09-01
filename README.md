@@ -34,6 +34,7 @@ Loosely categorized into:
 
 - [x] Filename
 - [x] Folder Names
+- [x] JPEG
 
 #### Scripted/Interpreted
 

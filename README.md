@@ -45,6 +45,7 @@ Loosely categorized into:
 - [x] PowerShell
 - [x] Python
 - [x] Ruby
+- [x] Rockstar
 
 #### Text Documents
 
